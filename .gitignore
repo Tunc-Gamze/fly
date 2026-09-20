@@ -1,0 +1,16 @@
+.env
+.env.*
+!.env.example
+.venv/
+node_modules/
+dist/
+__pycache__/
+.pytest_cache/
+*.pyc
+*.sqlite3*
+*.log
+.idea/
+.vscode/
+artifacts/
+*.tsbuildinfo
+pytest-cache-files-*/
